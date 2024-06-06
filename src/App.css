@@ -1,0 +1,23 @@
+.navbar { 
+
+  background-color: gray; 
+  padding: 20px;
+  display: flex; 
+  flex-direction: row; 
+  justify-content: space-between;
+} 
+
+.logo { 
+  width: 10%;
+}
+
+.buttonFamily { 
+  width: 90%;
+}
+
+.searcbar { 
+  width: 40%; 
+  height: 30px;
+  border-radius: 5px;
+}
+
